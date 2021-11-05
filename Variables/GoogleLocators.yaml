@@ -1,0 +1,4 @@
+GoogleLocators:
+  SearchBox: name=q
+  SearchButton: name=btnK
+  SearchResult: xpath://*[@id="rso"]/div[1]/div/div/div[1]/div/div/div/div[1]/a/h3[contains(string(),"YouTube")]
